@@ -1,0 +1,154 @@
+ARGANZUELA
+Acacias
+Atocha
+Chopera
+Delicias
+Imperial
+Legazpi
+Palos de Moguer
+BARAJAS
+Aeropuerto
+Alameda de Osuna
+Casco Histórico de Barajas
+Corralejos
+Timón
+CARABANCHEL
+Comillas
+Opañel
+San Isidro
+Vista Alegre
+Puerta Bonita
+Buenavista
+Abrantes
+CENTRO
+Cortes
+Embajadores
+Justicia
+Palacio
+Sol
+Universidad
+CHAMARTIN
+El Viso
+Castilla
+Ciudad Jardín
+Hispanoamérica
+Nueva España
+Prosperidad
+CHAMBERI
+Almagro
+Arapiles
+Gaztambide
+Ríos Rosas
+Trafalgar
+Vallehermoso
+CIUDAD LINEAL
+Atalaya
+Colina
+Concepción
+Costillares
+Pueblo Nuevo
+Quintana
+San Pascual
+San Juan Bautista
+Ventas
+FUENCARRAL – EL PARDO
+FUENCARRAL
+EL PARDO
+Del Pilar
+El Goloso
+El Pardo
+Fuentelarreina
+La Paz
+Mirasierra
+Peñagrande
+Valverde
+HORTALEZA
+Apóstol Santiago
+Canillas
+Palomas
+Pinar del Rey
+Piovera
+Valdefuentes
+LATINA
+Aluche
+Campamento
+Cármenes
+Cuatro Vientos
+Las Aguilas
+Lucero
+Puerta del Angel
+MONCLOA – ARAVACA
+ARAVACA
+MONCLOA
+Aravaca
+Argüelles
+Casa de Campo
+Ciudad Universitaria
+El Plantío
+Valdematín
+Valdezarza
+MORATALAZ
+Fontarrón
+Horcajo
+Marroquina
+Media Legua
+Pavones
+Vinateros
+PUENTE DE VALLECAS
+Entrevías
+Numancia
+Palomeras Bajas
+Palomeras Sureste
+Portazgo
+San Diego
+RETIRO
+Adelfas
+Estrella
+Ibiza
+Jerónimos
+Niño Jesús
+Pacífico
+SALAMANCA
+Castellana
+Fuente del Berro
+Goya
+Guindalera
+Lista
+Recoletos
+SAN BLAS
+Amposta
+Arcos
+Canillejas
+Hellín
+Rejas
+Rosas
+Salvador
+Simancas
+TETUAN
+Almenara
+Bellas Vistas
+Berruguete
+Castillejos
+Cuatro Caminos
+Valdeacederas
+USERA
+Almendrales
+Moscardó
+Orcasitas
+Orcasur
+Pradolongo
+San Fermín
+Zofío
+VICALVARO
+Ambroz
+Casco Histórico de Vicalvaro
+VILLA DE VALLECAS
+VALLECAS
+Casco Histórico de Vallecas
+Santa Eugenia
+VILLAVERDE
+Butarque
+Los Ángeles
+Los Rosales
+San Andrés
+San Cristóbal

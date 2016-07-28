@@ -1,0 +1,3 @@
+object1 in location1
+object2 in location1 and location2
+object3 and object1 in location2 location3
